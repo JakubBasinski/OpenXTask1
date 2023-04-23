@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 const {
   TreeNode,
   countLeaves,
